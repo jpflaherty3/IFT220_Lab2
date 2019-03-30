@@ -48,3 +48,4 @@ Install-WindowsFeature AD-Domain-Services -IncludeManagementTools | Out-Null
 Install-ADDSForest -DomainName $domainname
 
 # the machine will now reboot
+# this comment is added so that the update can be commited
