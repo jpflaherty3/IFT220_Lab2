@@ -37,3 +37,5 @@ git clone https://github.com/<your_account>/IFT220_Lab2.git
 1.	Refresh your GitHub site and see if the changes are there
 1. Turn in a screenshot showing your commits like this:
 ![](https://github.com/ericcase/IFT220_Lab2/blob/master/Lab2_Submit_Example.PNG)
+
+# adding a comment at the end to satisfy the lab requirements
